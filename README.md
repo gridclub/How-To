@@ -4,7 +4,9 @@ This repository holds information on "getting things done" as GRiD (and a GSO) i
 
 ## How to add to this repo :
 
-Make a new file per topic. The file should start with a description of what needs to be accomplished and then how it has been done. Then, drop a link here to that file. 
+Make a new file per topic. The file should start with a description of what needs to be accomplished and then how it has been done. If you have access to this repo, you can even add the file from within github. No need to pull & push. 
+
+When done, drop a link to that file here.
 
 ## HOW-TO Table
 
