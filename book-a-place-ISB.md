@@ -1,4 +1,4 @@
-# How to book a place at the integrated science building
+# How to book a place at the integrated sciences building
 
 [Instructions and link to form.](https://www.cns.umass.edu/about/reservations)
 
