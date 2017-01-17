@@ -16,12 +16,12 @@ In Jekyll, creating a new blog post will require pushing a new file to the `grid
    called [yaml frontmatter](https://jekyllrb.com/docs/frontmatter/). Here's an
    example from a post:
 
->>> ---
->>> layout: post
->>> title: "notes for git/github"
->>> category: 
->>> tags: []
->>> ---
+'''--- 
+layout: post
+ title: "notes for git/github"
+ category: 
+ tags: []
+---'''
 
 The details of the post should be written under those. 
 
