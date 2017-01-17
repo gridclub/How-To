@@ -16,12 +16,14 @@ In Jekyll, creating a new blog post will require pushing a new file to the `grid
    called [yaml frontmatter](https://jekyllrb.com/docs/frontmatter/). Here's an
    example from a post:
 
-'''--- 
+```
+--- 
 layout: post
  title: "notes for git/github"
  category: 
  tags: []
----'''
+---
+```
 
 The details of the post should be written under those. 
 
@@ -30,14 +32,18 @@ post is appearing. Note that the website is **not** refreshed immediately, so
 give it a few minutes.
 
 #### Automating the procedure
-Steps 2-4. can be automated through software. A common way to do that is in ruby
+Steps 2-4. can be automated through software and a common way to do that is in ruby
 or python. Pulling the gridclub.io repository should also give you the
-"new-post.py" file.  
+"new-post.py" file which simplifies the process.
 
 Usage:
->>> $ python new-post.py "Title for my post"
+``` 
+$ python new-post.py "Title for my post"
+```
 or 
->>> $ ./new-post.py "Title for my post"
+```
+$ ./new-post.py "Title for my post"
+```
 
 Running either command will create the file in the "_posts" folder with the
 correct format, add the frontmatter with the correct details and pick 
