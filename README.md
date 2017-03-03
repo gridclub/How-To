@@ -2,7 +2,7 @@
 
 This repository holds information on "getting things done" as GRiD (and a GSO) in the UMass campus. We figured things out so you  don't have to. 
 
-## How to add to this repo :
+To create a pdf out of the handbook.md file, you can use pandoc with
 
-Make a new file per topic. The file should start with a description of what needs to be accomplished and then how it has been done. If you have access to this repo, you can even add the file from within github. No need to pull & push. 
+``pandoc handbook.md -o handbook.pdf``
 
