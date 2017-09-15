@@ -1,6 +1,5 @@
 ---
-author:
-- by the GRiD officers team
+author: by the GRiD officers team
 title: The GRiD handbook
 fontsize: 12
 documentclass: article
