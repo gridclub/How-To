@@ -31,19 +31,8 @@ In Jekyll, creating a new blog post will require pushing a new file to the `grid
 2. A new blogpost is made by creating a new file under the folder `_posts` 
 3. File name shold be following the YYYY-MM-DD format, similar to other posts 
 4. In the top of the file there should be some properties, written in what is
-   called [yaml frontmatter](https://jekyllrb.com/docs/frontmatter/). Here's an
-   example from a post:
+   called [yaml frontmatter](https://jekyllrb.com/docs/frontmatter/). 
 
-```
---- 
-layout: post
- title: "notes for git/github"
- category: 
- tags: []
----
-```
-
-The details of the post should be written under those. 
 
 5. Push to the remote repo on github, then refresh in browser to check if the
 post is appearing. Note that the website is **not** refreshed immediately, so
